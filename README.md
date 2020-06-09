@@ -77,7 +77,7 @@ This way, your helpers will be loaded automatically!
 Slice-CI4 has its own `view` method to display your HTML pages. So, to show a view you can do the following:
 
 ```php
-$this->slice->view('page', ['name' => 'GustMartins']);
+$this->slice->view('page', ['name' => 'FoLez']);
 ```
 
 It is important to remember that your view files **MUST** have `.slice.php` as extension. But you can change that in your `application/config/slice.php` file.
@@ -104,14 +104,14 @@ As you saw in the previous examples, you may pass an array of data to views:
 
 ```php
 
-$this->slice->view('view', ['name' => 'GustMartins']);
+$this->slice->view('view', ['name' => 'FoLez']);
 
 ```
 
 When passing information in this manner, `$data` should be an array of key/value pairs. Inside your view, you can then access each value using its corresponding key, such as `<?php echo $key; ?>`. As an alternative to passing a complete array of data to the `view` method, you may use the `with` method to add individual pieces of data, or the `set` method to add an array of key/value pairs of data.
 
 ```php
-$this->slice->with('name', 'GustMartins')
+$this->slice->with('name', 'FoLez')
             ->set(['foo' => 'bar', 'users' => ['Jack', 'Kate', 'Sawyer', 'Lock', 'Jacob']])
             ->view('users');
 ```
