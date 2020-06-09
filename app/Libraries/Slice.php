@@ -16,8 +16,8 @@ define('VIEWPATH', $dCFG.'/');
  * @package		Slice
  * @subpackage	Library
  * @category	Library
- * @link		https://github.com/GustMartins/Slice-Library
- * @version 	1.3.1
+ * @link		https://github.com/FoLez/slice-ci4
+ * @version 	1.0
  * @author		FoLez
  */
 class Slice
