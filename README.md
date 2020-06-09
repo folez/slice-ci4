@@ -483,7 +483,7 @@ For more information about contributing to the project please, read the [Contrib
 
 ## Change Log
 
-Currently, the Slice-CI4 is in the version **1.3.0**. See the full [Changelog][changelog] for more details.
+Currently, the Slice-CI4 is in the version **1.0**. See the full [Changelog][changelog] for more details.
 
 [FoLez]: https://github.com/FoLez
 [contrib]: https://github.com/Folez/Slice-CI4/blob/master/contributing.md
