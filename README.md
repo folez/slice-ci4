@@ -488,4 +488,4 @@ Currently, the Slice-CI4 is in the version **1.0**. See the full [Changelog][cha
 [FoLez]: https://github.com/FoLez
 [contrib]: https://github.com/Folez/Slice-CI4/blob/master/contributing.md
 [changelog]: https://github.com/Folez/Slice-CI4/blob/master/changelog.md
-Thank you [Gustavo Martins][GustMartins]
+Thank you [GustMartins][Gustavo Martins]
