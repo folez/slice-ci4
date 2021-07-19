@@ -66,7 +66,7 @@ To use them, make sure the variable `enable_helper` is set `TRUE` in the `app/Co
 
 ### Other Helpers
 
-Within Slice you can optionally load any Helper! This is very useful if you use a helper to handle assets, for example, and you don't want to put them in the `app/Cnfig/Autoload.php` file.
+Within Slice you can optionally load any Helper! This is very useful if you use a helper to handle assets, for example, and you don't want to put them in the `app/Config/Autoload.php` file.
 
 So, to autoload any helper set the variable `enable_autoload` in the `app/Config/Slice.php` file to `TRUE`. Then add the helpers you want to load in the config array `helpers`.
 
